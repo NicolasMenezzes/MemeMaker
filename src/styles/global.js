@@ -1,6 +1,5 @@
 import {createGlobalStyle} from 'styled-components'
 import img from "../images/Group.png"
-import imgmobile from "../images/Group9.png"
 
 
 export default createGlobalStyle `
